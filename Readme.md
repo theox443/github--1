@@ -9,3 +9,4 @@ Deskripsi singkat Anda.
 git clone https://github.com/username/reponame.git
 cd reponame
 make install
+make run
