@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+env/
+
+# Docker
+docker-compose.yml
+*.log
+*.tmp
+
+# Custom files to ignore
+request.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
